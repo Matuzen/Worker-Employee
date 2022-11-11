@@ -1,0 +1,16 @@
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\Employees + Worker.csproj.AssemblyReference.cache
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\Employees + Worker.GeneratedMSBuildEditorConfig.editorconfig
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\Employees + Worker.AssemblyInfoInputs.cache
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\Employees + Worker.AssemblyInfo.cs
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\Employees + Worker.csproj.CoreCompileInputs.cache
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\bin\Debug\net5.0\Employees + Worker.exe
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\bin\Debug\net5.0\Employees + Worker.deps.json
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\bin\Debug\net5.0\Employees + Worker.runtimeconfig.json
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\bin\Debug\net5.0\Employees + Worker.runtimeconfig.dev.json
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\bin\Debug\net5.0\Employees + Worker.dll
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\bin\Debug\net5.0\ref\Employees + Worker.dll
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\bin\Debug\net5.0\Employees + Worker.pdb
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\Employees + Worker.dll
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\ref\Employees + Worker.dll
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\Employees + Worker.pdb
+E:\#Meus Projetos\C# Com Console\Employee + Worker\Employees + Worker\obj\Debug\net5.0\Employees + Worker.genruntimeconfig.cache
